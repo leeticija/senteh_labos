@@ -6,7 +6,7 @@ Open terminal and create python virtual environment:
 ```bash
    python3 -m venv venv
 ```
-Avtivate venv:
+Activate venv:
 ```bash
    source venv/bin/activate
 ```
