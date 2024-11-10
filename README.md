@@ -1,4 +1,4 @@
-# senteh_labos
+# Senzorske tehnologije labos
 Programski dio labosa iz senzorskih tehnologija
 
 ## Installation
