@@ -25,6 +25,11 @@ Clone repo:
 
 !! Now put all *.csv files in same folder as data_reader.py file !!
 
+Run the program:
+```python
+   python3 data_reader.py
+```
+
 ### Optionally
 Should work even without this: 
 
